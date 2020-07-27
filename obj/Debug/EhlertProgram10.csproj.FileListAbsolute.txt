@@ -1,0 +1,10 @@
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\bin\Debug\EhlertProgram10.exe.config
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\bin\Debug\EhlertProgram10.exe
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\bin\Debug\EhlertProgram10.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\obj\Debug\EhlertProgram10.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\obj\Debug\EhlertProgram10.EmployeePayRate.resources
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\obj\Debug\EhlertProgram10.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\obj\Debug\EhlertProgram10.csproj.GenerateResource.Cache
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\obj\Debug\EhlertProgram10.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\obj\Debug\EhlertProgram10.exe
+C:\Users\Kaleb\source\repos\EhlertProgram10\EhlertProgram10\obj\Debug\EhlertProgram10.pdb
